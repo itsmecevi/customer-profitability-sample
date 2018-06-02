@@ -5,6 +5,8 @@ This is a Doku for customer profitability sample with Power BI.
 Source: 
 https://docs.microsoft.com/en-us/power-bi/sample-customer-profitability from http://obvience.com/
 
+The dataset: [Click here](https://drive.google.com/file/d/1fHCwm3tEKIU89IOPXS3yK-vjsSCIOW3r/view?usp=sharing)
+
 Before going further, we need understand the concept of the data model, please read the link below:
 https://en.wikipedia.org/wiki/Data_model
 
