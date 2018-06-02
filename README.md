@@ -26,3 +26,6 @@ Extras: [Quick Guide DAX](https://support.office.com/en-us/article/quickstart-le
 
 ---------------------------------------------------------------------------
 Drag this entity for every graph: 
+.
+.
+.coming soon!
