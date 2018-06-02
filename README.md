@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Data_model
 
 This analysis contains 9 entity (table) and every table has to attribute.
 
-### Let's make the data model from the 8 entity. Just drag every [Primary Key](https://en.wikipedia.org/wiki/Primary_key) of the entity in power pivot or power bi data model
+### Let's make the data model from the 9 entity. Just drag every [Primary Key](https://en.wikipedia.org/wiki/Primary_key) of the entity in power pivot or power bi data model
 
 ![customer-profitability](https://user-images.githubusercontent.com/27078712/40879487-d82dcb9c-66a0-11e8-96b0-712875c4be90.PNG)
 
